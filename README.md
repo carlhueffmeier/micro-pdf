@@ -6,7 +6,7 @@ A dead simple proof of concept server that responds with a PDF of the url passed
 
 ### Example
 
-Open [localhost:3000/www.nodejs.org](https://localhost:3000/www.nodejs.org).
+Open [localhost:3000/www.nodejs.org](http://localhost:3000/www.nodejs.org).
 
 -> Returns PDF of the Node.js website
 
