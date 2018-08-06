@@ -1,0 +1,20 @@
+{
+  "name": "micro-pdf",
+  "version": "1.0.0",
+  "description": "A simple microservice that converts URL to PDF",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  },
+  "keywords": [],
+  "author": "Carl Hüffmeier",
+  "license": "MIT",
+  "dependencies": {
+    "micro": "^9.3.2",
+    "puppeteer": "^1.6.2"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  }
+}
